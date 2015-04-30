@@ -9,8 +9,8 @@ Step to step creation of a Front End Project
 Prerequisites
 -------------
 
- - node (& npm)
- - git
+ - [node (& npm)](https://nodejs.org/)
+ - [git](http://git-scm.com/)
 
 Steps
 -----
