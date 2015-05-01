@@ -1,5 +1,5 @@
-Frontend Setup Steps
-====================
+ES6 Frontend Setup Steps
+========================
 
 Description
 -----------
