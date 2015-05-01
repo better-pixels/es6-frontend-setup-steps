@@ -17,7 +17,8 @@ Prerequisites
 One-Time Steps
 --------------
 
- 1. Install globally the [karma](https://github.com/karma-runner/karma/) CLI: `npm install -g karma-cli`
+ 1.  `npm install -g karma-cli`to install globally the [karma](https://github.com/karma-runner/karma/) CLI
+ 2. `npm install -g live-server` to install globally [a web-server](https://github.com/tapio/live-server) to serve the files (which refreshes the page every time one of the served files is edited)
 
 Per-Project Steps
 -----------------
